@@ -1,7 +1,7 @@
 # Jalculator
 A modern high-precision supersonic jalculator.
-Build:
+## Build:
 	create a directory Calculator under tomcat webapps
 	move the files into it
-Run:
+## Run:
 	catalina run
