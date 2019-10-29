@@ -7,7 +7,7 @@
 <title>Fail</title>
 </head>
 <body>
-<h1>What have you done, bastard!</h1>
-<p>You caused a ${message }, you stupid pig. Get out of here, you are banned from this site.</p>
+<h1>What have you done!?</h1>
+<p>You caused a ${message }!. Get out of here, you are banned from this site.</p>
 </body>
 </html>
